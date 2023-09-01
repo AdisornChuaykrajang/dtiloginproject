@@ -1,0 +1,63 @@
+body{
+    background-image: url(../images/imglogin01/background.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+}  
+
+#a1{
+    width: 200px;
+    position: fixed;
+    top: 50px;
+    left: 630px;
+}
+
+#a2{
+    position: fixed;
+    width: 20px;
+    top: 300px;
+    left: 590px;
+}
+
+#a3{
+    position: fixed;
+    width: 250px;
+    top:300px;
+    left: 610px;
+    background-color: transparent;
+    color: white;
+}
+
+#a4{
+    position: fixed;
+    width: 20px;
+    top: 350px;
+    left: 590px;
+}
+
+#a5{
+    position: fixed;
+    width: 250px;
+    top:350px;
+    left: 610px;
+    background-color: transparent;
+    color: white;
+}
+
+#a6{
+    position: fixed;
+    top: 420px;
+    left: 610px;
+    color: gray;
+}
+
+#a7{
+    width: 100px;
+    position: fixed;
+    top: 420px;
+    left: 765px;
+    color: white;
+    background-color: rgb(206, 9, 157);
+    border-radius: 40px;
+}
